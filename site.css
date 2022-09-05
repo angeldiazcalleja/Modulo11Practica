@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://www.murhotels.com/cache/25/d9/25d9aa766d9c7ca2667672008de9dd27.jpg);
+  }
+
+  
+h1 {
+    text-align: center;
+    font-family: "Latin Modern Roman";
+    font-size: 60px;
+    color: rgba(0, 0, 255, 0.461);
+    margin-bottom: 1px;
+
+  }
+  
+
+h2 {
+    text-align: center;
+    margin-top: 1px;
+}
+
+.bocadillo-informacion{
+    text-align: center;
+    height:60px;
+    width: 700px;
+    background: rgba(106, 194, 218, 0.863);
+    box-shadow: 1px 12px 33px rgb(0, 0, 0);
+    margin-left:425px;
+    margin-top: 160px;
+    color: black solid;
+    border-radius: 10px;
+}
+
+.bocadillo-contacto {
+    text-align: center;
+    height: 130px;
+    width: 250px;
+    background: rgba(106, 194, 218, 0.865);
+    box-shadow: 1px 12px 33px rgb(0, 0, 0);
+    margin-left:650px;
+    margin-top: 160px;
+    color: black solid;
+    border-radius: 10px;
+}
+
+h3 {
+    margin-top: 150px;
+    color: black solid;
+    text-align: center;
+
+}
